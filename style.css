@@ -7,7 +7,7 @@ html, body {
 }
 
 section{
-    margin-bottom: 100px;
+    margin-bottom: 80px;
 }
 
 .pannel{
@@ -105,7 +105,7 @@ section{
 
 /* DABOSAURE POWAAA */
 .cadre{
-    border: 10px solid rgb(76, 180, 76);
+    border: 10px solid rgb(8, 33, 42);
     border-radius: 5px;
     width: 30%;
     margin: 100px auto;
@@ -139,10 +139,12 @@ section{
 
 .image-dab{
     z-index: 1;
+    height: 150px;
+    width: 150px;
 }
 
 .inner-img{
-    background-color: rgba(83, 95, 37, 0.801);
+    background-color: rgb(186, 215, 221);
     height: 200px;
     width: 200px;
     z-index: 0;
